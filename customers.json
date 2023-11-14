@@ -1,0 +1,59 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "David",
+      "email": "david@gmail.com",
+      "phoneNumber": "+11527896543",
+      "address": {
+        "streetName": "Court Street",
+        "streetNo": "123",
+        "postalCode": "2617"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Mary",
+      "email": "mary@gmail.com",
+      "phoneNumber": "+11524449876",
+      "address": {
+        "streetName": "Scottsdale Kierland",
+        "streetNo": "100",
+        "postalCode": "85254"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Jennifer",
+      "email": "Jennifer@yahoo.com",
+      "phoneNumber": "+11525432178",
+      "address": {
+        "streetName": "Beachwalk",
+        "streetNo": "902",
+        "postalCode": "96815"
+      }
+    },
+    {
+      "name": "Meera",
+      "email": "Meera@yahoo.com",
+      "phoneNumber": "+11525432178",
+      "address": {
+        "streetName": "Beachwalk",
+        "streetNo": "902",
+        "postalCode": "96815"
+      },
+      "id": 4
+    },
+    {
+      "name": "Kinjal",
+      "email": "Kinjal@yahoo.com",
+      "phoneNumber": "+11525432178",
+      "address": {
+        "streetName": "Beachwalk",
+        "streetNo": "902",
+        "postalCode": "96815"
+      },
+      "id": 5
+    }
+  ]
+}
